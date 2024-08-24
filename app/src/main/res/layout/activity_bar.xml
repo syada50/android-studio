@@ -33,15 +33,4 @@
         app:layout_editor_absoluteY="295dp" />
 
 
-    <SeekBar
-        android:layout_width="320dp"
-        android:layout_height="12dp"
-        android:layout_marginBottom="440dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/progressBar"
-        app:layout_constraintHorizontal_bias="0.373"
-        app:layout_constraintStart_toStartOf="@+id/progressBar"
-        app:layout_editor_absoluteX="45dp"
-        app:layout_editor_absoluteY="295dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
