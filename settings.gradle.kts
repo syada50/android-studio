@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "check boc for multiple option"
+rootProject.name = "assignment 2 layout 7"
 include(":app")
  
